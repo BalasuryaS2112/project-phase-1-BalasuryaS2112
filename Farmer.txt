@@ -1,0 +1,15 @@
+Farmer ID=1
+Farmer Name=1
+Farmer Phone=Alice
+Farmer Address=9876543210
+----------------
+Farmer ID=2
+Farmer Name=Bob
+Farmer Phone=9838288328
+Farmer Address=Karur
+----------------
+Farmer ID=3
+Farmer Name=Ram
+Farmer Phone=6572891910
+Farmer Address=Erode
+----------------

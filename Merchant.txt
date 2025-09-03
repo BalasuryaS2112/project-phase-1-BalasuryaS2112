@@ -1,0 +1,15 @@
+Merchant ID=1
+Merchant Name=Kumar
+Merchant Phone=8755373289
+Merchant Address=Erode
+----------------
+Merchant ID=2
+Merchant Name=Peter
+Merchant Phone=7654321890
+Merchant Address=Karur
+----------------
+Merchant ID=3
+Merchant Name=Raju
+Merchant Phone=8838234883
+Merchant Address=Perambalur
+----------------

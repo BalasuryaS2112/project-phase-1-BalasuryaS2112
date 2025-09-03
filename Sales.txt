@@ -1,0 +1,21 @@
+Sales ID=1
+Merchant ID=1
+Farmer ID=1
+Product=Turmeric
+Quantity=12345.0 kg
+Price=123456.0 rupees
+----------------
+Sales ID=2
+Merchant ID=2
+Farmer ID=2
+Product=Groundnut
+Quantity=1234.0 kg
+Price=123456.0 rupees
+----------------
+Sales ID=3
+Merchant ID=3
+Farmer ID=3
+Product=Onion
+Quantity=12343.0 kg
+Price=1212323.0 rupees
+----------------
